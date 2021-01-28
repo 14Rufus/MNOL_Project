@@ -1,8 +1,6 @@
 # MNOL_Project
 
-# Nome do Projeto
-
-Descrição
+This project was developed in order to better understand the concepts of the discipline of non-linear optimization methods 
 
 # Authors
 
